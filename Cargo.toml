@@ -79,6 +79,10 @@ path = "examples/widgets/knob.rs"
 name = "popup"
 path = "examples/widgets/popup.rs"
 
+[[example]]
+name = "popup_textbox"
+path = "examples/widgets/popup_textbox.rs"
+
 # [[example]]
 # name = "tooltip"
 # path = "examples/widgets/tooltip.rs"
