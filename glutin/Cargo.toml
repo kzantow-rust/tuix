@@ -5,6 +5,7 @@ authors = ["George Atkinson"]
 edition = "2018"
 license = "MIT"
 repository = "https://github.com/geom3trik/tuix"
+description = "Glutin backend for tuix"
 
 
 [dependencies]

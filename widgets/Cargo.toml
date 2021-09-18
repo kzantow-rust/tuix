@@ -2,9 +2,10 @@
 name = "tuix_widgets"
 version = "0.2.0"
 authors = ["George Atkinson"]
-license = "MIT/Apache-2.0"
+license = "MIT"
 repository = "https://github.com/geom3trik/tuix"
 edition = "2018"
+description = "Widgets for tuix"
 
 [dependencies]
 femtovg = "0.2.5"

@@ -5,7 +5,7 @@ authors = ["George Atkinson <geomyles@yahoo.co.uk>", "Billy Messenger <BillyDM@p
 edition = "2018"
 license = "MIT"
 repository = "https://github.com/geom3trik/tuix"
-
+description = "Baseview backend for tuix"
 
 
 [dependencies]
